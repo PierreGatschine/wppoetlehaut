@@ -1,0 +1,16 @@
+.tablepress-id-1 .row-1 .column-1,
+.tablepress-id-1 .row-1 .column-2,
+.tablepress-id-1 .row-1 .column-3,
+.tablepress-id-1 .row-1 .column-4 {
+	font-family: Raleway;
+	font-weight: 300px;
+	font-size: 21px;
+	color: #73acea;
+}
+
+.tablepress-id-1 tbody td {
+	font-family: Raleway;
+	font-weight: 300px;
+	font-size: 21px;
+	color: #4c4c4c;
+}
